@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
-               BuildableName = "SwiftObjLoader-iOS.framework"
+               BuildableName = "SwiftObjLoader.framework"
                BlueprintName = "SwiftObjLoader-iOS"
                ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
-            BuildableName = "SwiftObjLoader-iOS.framework"
+            BuildableName = "SwiftObjLoader.framework"
             BlueprintName = "SwiftObjLoader-iOS"
             ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
-            BuildableName = "SwiftObjLoader-iOS.framework"
+            BuildableName = "SwiftObjLoader.framework"
             BlueprintName = "SwiftObjLoader-iOS"
             ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
          </BuildableReference>

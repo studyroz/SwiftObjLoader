@@ -437,6 +437,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = org.hugotunius.SwiftObjLoader;
 				PRODUCT_NAME = SwiftObjLoader;
 				SKIP_INSTALL = YES;
@@ -457,6 +458,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Sources/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = org.hugotunius.SwiftObjLoader;
 				PRODUCT_NAME = SwiftObjLoader;
 				SKIP_INSTALL = YES;
@@ -500,6 +502,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "Info-iOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.hugotunius.SwiftObjLoader;
 				PRODUCT_NAME = SwiftObjLoader;
@@ -521,6 +524,7 @@
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = "Info-iOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.hugotunius.SwiftObjLoader;
 				PRODUCT_NAME = SwiftObjLoader;
