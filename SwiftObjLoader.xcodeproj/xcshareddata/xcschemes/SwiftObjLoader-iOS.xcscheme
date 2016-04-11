@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D65A34601B96F39C008EBCA8"
-               BuildableName = "SwiftObjLoaderOSX.framework"
-               BlueprintName = "SwiftObjLoaderOSX"
+               BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
+               BuildableName = "SwiftObjLoader-iOS.framework"
+               BlueprintName = "SwiftObjLoader-iOS"
                ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D65A346A1B96F39C008EBCA8"
-               BuildableName = "SwiftObjLoaderTests.xctest"
-               BlueprintName = "SwiftObjLoaderTests"
-               ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D65A34601B96F39C008EBCA8"
-            BuildableName = "SwiftObjLoaderOSX.framework"
-            BlueprintName = "SwiftObjLoaderOSX"
-            ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -64,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D65A34601B96F39C008EBCA8"
-            BuildableName = "SwiftObjLoaderOSX.framework"
-            BlueprintName = "SwiftObjLoaderOSX"
+            BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
+            BuildableName = "SwiftObjLoader-iOS.framework"
+            BlueprintName = "SwiftObjLoader-iOS"
             ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D65A34601B96F39C008EBCA8"
-            BuildableName = "SwiftObjLoaderOSX.framework"
-            BlueprintName = "SwiftObjLoaderOSX"
+            BlueprintIdentifier = "EE6EB0E31CBB966F00ADA3DF"
+            BuildableName = "SwiftObjLoader-iOS.framework"
+            BlueprintName = "SwiftObjLoader-iOS"
             ReferencedContainer = "container:SwiftObjLoader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
