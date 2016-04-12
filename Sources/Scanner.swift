@@ -132,10 +132,9 @@ final class ObjScanner: Scanner {
             if scanner.scanInt(&tmp) { // v1/vt1/
                 vt = Int(tmp)
             }
-            guard scanner.scanString("/", intoString: nil) else {
-                throw ObjLoadingError.UnexpectedFileFormat(error: "Lack of '/' when parsing face definition, each vertex index should contain 2 '/'")
+            if !scanner.scanString("/", intoString: nil) {
+                vt = nil
             }
-
             if scanner.scanInt(&tmp) {
                 vn = Int(tmp)
             }
