@@ -132,10 +132,7 @@ final class ObjScanner: Scanner {
             if scanner.scanInt(&tmp) { // v1/vt1/
                 vt = Int(tmp)
             }
-            if !scanner.scanString("/", intoString: nil) {
-                vt = nil
-            }
-            if scanner.scanInt(&tmp) {
+            if scanner.scanString("/", intoString: nil) && scanner.scanInt(&tmp) {
                 vn = Int(tmp)
             }
 
